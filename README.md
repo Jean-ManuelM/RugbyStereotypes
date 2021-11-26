@@ -44,6 +44,6 @@ The exploratory notebbok is available also in the repository. Insite the noteboo
 The main findings can be found in the Blog-post available [here](https://medium.com/@jeanmanuelmassip/truth-or-myths-flanker-best-tackler-in-the-game-3ef09035136e)
 
 ## Licensing, Authors, Acknowledgements, etc.
-Acknowledgement should go to Kaggle for providing the dataset. 
+Acknowledgement should go to Kaggle for providing the dataset.  
 
 
