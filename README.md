@@ -10,7 +10,7 @@ No additional installations beyond the Anaconda distribution of Python and Jupyt
 
 ## Project Motivation
 For this project, our goal is to conduct exploratory data analysis into Rurby sport. Due to an evolution from amateur to professional level, the game has changed significantly.
-Using a dataset from 6 Nation Competition<https://www.kaggle.com/cianmcgovernleahy/six-nations-historical-data/version/1> found on Kaggle, our goal is to test if old stereotypes are still true.
+Using a dataset from [Rugby 6 Nation Competition](https://www.kaggle.com/cianmcgovernleahy/six-nations-historical-data/version/1) found on Kaggle, our goal is to test if old stereotypes are still true.
 
 Those stereotypes are often related to a game aspect and some player position on the field  :
 On physical aspects :
@@ -33,11 +33,17 @@ On Kicks aspect :
 I shared to output of this analysis in a blog post on Medium. I hope it help rugby fan to understand what change or not. And maybe close some debate.
 The main conclusion surprised me !
 
-File Desciption 
-You can find the data used in this projet on the Kaagle web page here.
+## Files Desciption 
+You can find the data used in this projet on the [Kaagle web page here](https://www.kaggle.com/cianmcgovernleahy/six-nations-historical-data/version/1).
 
-Because of size and convinience, you will find only the tab which provide the interessreting data for us in the file named :
+Because of size and convinience, you can find only the tab which provide the interessreting data for us in the file named "players-stats-input.xls" in the repository.
 
-The output of ou data wrangling is named :
+The exploratory notebbok is available also in the repository. Insite the notebook you can find the CRISP-DM Process until the final visualisations. Markdown cells were used throughout to explain the process taken. 
+
+## Medium Blog Post
+The main findings can be found in the Blog-post available [here](https://medium.com/@jeanmanuelmassip/truth-or-myths-flanker-best-tackler-in-the-game-3ef09035136e)
+
+## Licensing, Authors, Acknowledgements, etc.
+Acknowledgement should go to Kaggle for providing the dataset. 
 
 
